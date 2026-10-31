@@ -67,7 +67,7 @@ switch (date) {
         break;
     case "7":
         console.log("sunday!");
-        break;
+        break; 
     default:
         console.log("invalid date!");
         break;
